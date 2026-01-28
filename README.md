@@ -24,6 +24,17 @@ Sistemin test edilmesi için herhangi bir fiziksel mesafe sensörü gerekmez; ta
 
 
 
+![Projeye kuşbakışı](https://github.com/user-attachments/assets/d4bdff14-976a-499d-93a5-770ba6d786c1)
+
+
+<img width="1918" height="1137" alt="Sistemin anlık verisi 1" src="https://github.com/user-attachments/assets/24827652-72eb-481a-8f46-af6e36e5f67c" />
+
+<img width="1919" height="1136" alt="Sistemin anlık verisi 2" src="https://github.com/user-attachments/assets/e3ff28cc-5ef8-4d64-8112-036c299c3911" />
+
+
+
+
+
 
 
 
