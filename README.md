@@ -1,4 +1,7 @@
 # Virtual-Distance-Velocity-Monitoring-System-using-STM32G474RE
+
+**Kodun bulunduğu main dosyasına Core -> Src -> main.c  aracılığıyla ulaşabilirsiniz. **
+
 Bu proje, STM32G474RE mikrodenetleyicisi kullanılarak sanal bir mesafe ölçümü ve ortalama hız hesaplama sistemini simüle eder. Sistem, mesafe değerlerine göre bir LED ile uyarı verir ve UART üzerinden haberleşme sağlanarak termitte anlık veriler görünecek şekilde durumu raporlar.
 
 Projenin amacı, gerçek bir sensör olmadan bir nesnenin mesafesini ve hareket hızını sanal olarak simüle etmektir. Kodda:
@@ -18,6 +21,9 @@ UART üzerinden mesafe ve ortalama hız değerleri sürekli olarak gönderilir v
 STM32CubeIDE ve termite kullanıldı.
 
 Sistemin test edilmesi için herhangi bir fiziksel mesafe sensörü gerekmez; tamamen sanaldır.
+
+
+
 
 
 
