@@ -12,7 +12,7 @@ update_average_velocity() fonksiyonu, mesafe değişimine bağlı olarak ortalam
 
 LED (PA5) mesafe durumuna göre:
 
-mesafe < 30 m → Kritik durum olarak değerlendiriliyor.Led sürekli yanıp sönüyor ve sisteme kritik uzaklık olarak mesaj gönderiliyor
+mesafe < 30 m → Kritik durum olarak değerlendiriliyor.Led sürekli yanıyor ve sisteme kritik uzaklık olarak mesaj gönderiliyor
 30<mesafe<60 m → Uyarı durumunda LED yanıp sönüyor ve sisteme tehlikeli uzaklık olarak mesaj gönderiliyor.
 60 m → Güvenli durum olarak değerlendiriliyor ve sisteme güvenli uzaklık olarak mesaj gönderiliyor. (LED kapalı)
 
