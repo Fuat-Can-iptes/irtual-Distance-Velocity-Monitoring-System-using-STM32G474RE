@@ -22,6 +22,8 @@ STM32CubeIDE ve termite kullanıldı.
 
 Sistemin test edilmesi için herhangi bir fiziksel mesafe sensörü gerekmez; tamamen sanaldır.
 
+// PROJE GÖRSELLERİ //
+
 
 
 ![Projeye kuşbakışı](https://github.com/user-attachments/assets/d4bdff14-976a-499d-93a5-770ba6d786c1)
